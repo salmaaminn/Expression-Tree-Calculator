@@ -2,7 +2,10 @@ Run make in the Expression-Tree-Calculator directory. This will compile heap.c, 
 
 Then run:
 ```./bin/preorder "expression"
-# ./bin/postorder "expression" 
-# ./bin/inorder "expression"
-# ./bin/calculate "expression"
-#./bin/heap
+./bin/postorder "expression" 
+./bin/inorder "expression"
+./bin/calculate "expression"
+./bin/heap
+
+Example:
+```./bin/postorder "5.30+2.32"
