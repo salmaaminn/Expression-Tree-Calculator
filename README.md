@@ -6,9 +6,3 @@ Then run:
 ./bin/inorder "expression"
 ./bin/calculate "expression"
 ./bin/heap
-
-Issues or Surprises:
-The expression tree parsing was hard to implement correctly.
-
-##Disclosure
-I searched up the process of parsing a tree
