@@ -8,4 +8,4 @@ Then run:
 ./bin/heap
 
 Example:
-```./bin/postorder "5.30+2.32"
+./bin/postorder "5.30+2.32"
