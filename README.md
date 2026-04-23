@@ -9,3 +9,4 @@ Then run:
 
 Example:
 ./bin/postorder "5.30+2.32"
+Output: 5.30 2.32 +
